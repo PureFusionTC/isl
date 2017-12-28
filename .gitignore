@@ -2,13 +2,7 @@
 *.[oa]
 *.lo
 *.la
-
-.deps/
-.libs/
-Makefile
-Makefile.in
-aclocal.m4
-autom4te.cache/
+*~
 config.guess
 isl_config.h
 isl_config.h.in
@@ -48,7 +42,6 @@ m4/ltsugar.m4
 m4/ltversion.m4
 m4/lt~obsolete.m4
 missing
-py-compile
 stamp-h1
 test-driver
 
