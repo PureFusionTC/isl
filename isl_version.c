@@ -1,5 +1,5 @@
 #include "isl_config.h"
-#include "gitversion.h"
+#define GIT_HEAD_ID "purefusiontc"
 
 const char *isl_version(void)
 {
